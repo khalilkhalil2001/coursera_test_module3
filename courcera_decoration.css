@@ -1,0 +1,12 @@
+/* Assure-toi que le menu déroulant est bien aligné */
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-nav .dropdown-menu {
+    background-color: #f8f8f8;
+    border: none;
+    box-shadow: none;
+}
+
